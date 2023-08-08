@@ -21,8 +21,8 @@
             <li><a  class="active" href="thall.php">Home</a></li>
             <li><a href="about_hall.php">About Hall</a></li>
            
-            <li><a href="#">Dinning</a></li>
-            <li><a href="#">Room</a></li>
+            <li><a href="dinningg.php">Dinning</a></li>
+            <li><a href="notice.php">Room</a></li>
  
             <li><a href="register_form.php">Login</a></li>
         </ul>
